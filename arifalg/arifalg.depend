@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1673012919 source:c:\users\hp\desktop\arifalg\main.cpp
+	<iostream>
+	<algorithm>
+	<string.h>
+	<string>
+	<vector>
+	<map>
+	<set>
+	<cmath>
+	<stack>
+	<queue>
+	<assert.h>
+	<fstream>
+
